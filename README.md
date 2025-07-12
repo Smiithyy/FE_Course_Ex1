@@ -1,1 +1,1 @@
-# FE_Course_Ex1
+Preview link: https://smiithyy.github.io/Assignment1/index.html
